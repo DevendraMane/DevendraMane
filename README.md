@@ -9,8 +9,8 @@
 
 - 👨‍💻 I'm a **Web Developer (MERN Stack)** focused on building and learning every single day.
 - 🧠 Currently learning **Data Structures & Algorithms in Java**
-- 🛠️ Working on a real-world project called **Faby Notes** – a full-stack study buddy app for personalised for my college still in active development.
-- 💬 Always up for discussing web development, tech, and project ideas.
+- 🛠️ Working on a real-world project called **Faby Notes** – a full-stack study buddy app for personalised for my college ,still in active development.
+- 💬 Always up for discussing web development, tech and project ideas.
 - 📈 Striving to improve daily through consistent practice and real-world application.
 
 ---
