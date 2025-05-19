@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Your Name]!
+### Hi there 👋, I'm [Devendra]!
 
 🎓 I'm a Computer Science student with a passion for building modern web applications.  
 💻 Currently working with the **MERN Stack** to craft responsive, scalable, and user-friendly solutions.
@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm a **Web Developer (MERN Stack)** focused on building and learning every single day.
 - 🧠 Currently learning **Data Structures & Algorithms in Java**
-- 🛠️ Working on a real-world project called **Faby Notes** – a full-stack note-taking app still in active development.
+- 🛠️ Working on a real-world project called **Faby Notes** – a full-stack study buddy app for personalised for my college still in active development.
 - 💬 Always up for discussing web development, tech, and project ideas.
 - 📈 Striving to improve daily through consistent practice and real-world application.
 
@@ -37,8 +37,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DevendraMane&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevendraMane&layout=compact&theme=radical)
 
 ---
@@ -46,7 +44,6 @@
 ### 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/devendramane/)
-- 🌐 [Portfolio/Website](https://yourwebsite.com) *(if any)*
 - 📧 Reach me at: devendradineshmane@gmail.com
 
 ---
