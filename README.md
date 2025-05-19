@@ -29,7 +29,7 @@
 ### 📂 Featured Project
 
 #### 📝 **Faby Notes**
-> A real-world note-taking web application built with the MERN Stack. Currently under development, with features like user authentication, real-time updates, and more on the roadmap.
+> A study buddy web application built with the MERN Stack. Currently under development, with features like user authentication, real-time updates, and more on the roadmap.
 
 👉 *Stay tuned! Lots of improvements and features coming soon.*
 
