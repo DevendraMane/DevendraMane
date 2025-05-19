@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Devendra]!
+### Hi there 👋, I'm Devendra..!
 
 🎓 I'm a Computer Science student with a passion for building modern web applications.  
 💻 Currently working with the **MERN Stack** to craft responsive, scalable, and user-friendly solutions.
@@ -22,7 +22,6 @@
 | 💽 Database | MongoDB |
 | 🧩 Backend | Node.js, Express.js |
 | 🎨 Frontend | React.js, CSS |
-| 🌐 General | Web Development |
 | 💡 Learning | DSA in Java |
 
 ---
